@@ -8,7 +8,8 @@ body {
   color: #444;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: #1d194d;
+  background-image: radial-gradient(50% 176%, #253854 80%, #061922 100%);
+  /* background: #1d194d; */
   overflow: hidden;
   display: block;
 }

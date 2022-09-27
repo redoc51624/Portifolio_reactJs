@@ -131,6 +131,7 @@
 @import url('https://fonts.googleapis.com/css?family=Corben:700');
 
 .hero {
+	background-image: radial-gradient(50% 176%, #253854 80%, #061922 100%);
 	min-height: 100vh;
 	min-height: 30rem;
 	position: relative;
@@ -154,7 +155,6 @@
 	width: 100%;
 	top: 0;
 	left: 0;
-  z-index: 90;
 }
 
 .snow .svg {
