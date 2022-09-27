@@ -42,10 +42,16 @@ const About = () => {
             improving my chops one design problem at a time.
           </p>
           <p>
-            If I need to define myself in one sentence that would be a family
-            person, father of a beautiful daughter, a sports fanatic,
-            photography enthusiast, and tech-obsessed!!!
+          Associate–eXperience Technology L1:
+During this job, he has undergone training in various web related technologies like HTML5, CSS3, SASS, LESS,
+POSTCSS, PRECSS, Advanced JavaScript with knowledge of Object Oriented Analysis and Design Patterns, as well as
+CSS framework like Bootstrap and Material Design UI, Kendo UI, Angular 2, ReactJS and libraries like jQuery.
+Also aware of RESTful Webservices, JSON, Nodejs, Google Firebase as cloud support and knows Google API
+integration.
           </p>
+          <p>Freelancer(Currently):
+Freelancer- worked as a freelancer on various projects. The technology used are PSD to HTML 5, HTML5, CSS3,
+JavaScript, Bootstrap, jQuery, ReactJs, Responsive Design.</p>
         </div>
 
         <div className="stage-cube-cont">
