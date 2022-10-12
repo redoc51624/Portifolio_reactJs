@@ -30,5 +30,48 @@
             "description": "React, JSX, Tailwind, Jest",
             "url": "http://google.com"
         }
-    ]
+    ],
+    "portfolioExperience": [
+          {
+          "id": "1",
+          "company": "SapientRazorfish",
+          "designation":"Associate–eXperience Technology L1",
+          "duration":"Oct 2016 — March 2018",
+          "jobRole":"During his current job, he has undergone training in various web related technologies like HTML5, CSS3, SASS, LESS,\nPOSTCSS, PRECSS, Advanced JavaScript with knowledge of Object Oriented Analysis and Design Patterns, as well as CSS framework like Bootstrap and Material Design UI, Kendo UI, Angular 2, ReactJS and libraries like jQuery. Also aware of RESTful Webservices, JSON, Nodejs, Google Firebase as cloud support and knows Google API integration."
+        },
+          {
+            "id": "2",
+          "company": "Self employed",
+          "designation":"Associate–eXperience Technology L1",
+          "duration":"July 2012 — May 2016",
+          "jobRole":"Freelancer- worked as a freelancer on various projects. The technology used are PSD to HTML 5, HTML5, CSS3,\nJavaScript, Bootstrap, jQuery, ReactJs, Responsive Design."
+          }
+        ],
+        "projects":[
+          {
+            "projectId":"",
+            "company":"Sapient.Pvt.Ltd",
+            "projectDetails":"Event Management App: -The project was an event management app which was based on Angular2.0,webpack,SCSS\nmaterial design.The project was utilised in event management of sapient 2017 anual knowledge\nsharing meet-up.<br>  - I was assigend task to create a modal which will store the rating of the event bases on different questions."
+          },
+          {
+            "projectId":"",
+            "company":"Sapient.Pvt.Ltd",
+            "projectDetails":"The project was an E-commerce site based on Demandware Platform, J-Query plugin,\nBootstrap, xml, SCSS.\n<br>- In this project, I worked on the SCSS of various pages ,isml and JS files as per the\nClient requirements. I worked on content landing page SCSS."
+          },
+          {
+            "projectId":"",
+            "company":"Sapient.Pvt.Ltd",
+            "projectDetails":"This project is based on React framework with POSTCSS& CSS.\n<br>- In this project, I worked on the CSS part ,on different components.Also I worked on the change request as per the\nclient's request."
+          },
+              {
+            "projectId":"Freelancer Projects",
+            "company":"",
+            "projectDetails":"Portfolio website - Created Portfolio website using HTML5,CSS3, Firebase, ReactJs. The site consist of pages like\nHome page, About Page, Work Page, Contact page.Created content as per the requirement."
+          },
+              {
+            "projectId":"Freelancer Projects",
+            "company":"",
+            "projectDetails":"Done online training in creating an e-commerce website using HTML5, CSS3, ReactJs. Created\nlanding page, Product Catalog Page, Checkout page."
+          }
+        ]
 }
