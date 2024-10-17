@@ -89,8 +89,10 @@ const Contact = () => {
           <br />
           kumar,
           <br />
-          New colony <br />
           Ramnagar <br />
+          Hazaribagh<br />
+          Jharkhand<br />
+          8084532538<br/>
           <br />
           <span>vikaskumar94317@gmail.com</span>
         </div>
@@ -98,7 +100,7 @@ const Contact = () => {
           <MapContainer center={[23.9975, 85.3382]} zoom={13}>
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
             <Marker position={[44.96366, 19.61045]}>
-              <Popup>Sloba lives here, come over for a cup of coffee :)</Popup>
+              <Popup>Vikas lives here, come over for a cup of coffee :)</Popup>
             </Marker>
           </MapContainer>
         </div>
