@@ -51,6 +51,7 @@ const Portfolio = () => {
                         )
                     })
                 }
+                
             </div>
         );
     }
@@ -67,6 +68,7 @@ const Portfolio = () => {
                     />
                 </h1>
                 <div>{renderPortfolio(portfolio)}</div>
+                <a className="flat-button" href="https://drive.google.com/file/d/1abccCY5-g6QjKFlB5wl4XxaBIWn6SN8c/view?usp=sharing">DOWNLOAD RESUME</a>
             </div>
             <Loader type="pacman" />
         </>

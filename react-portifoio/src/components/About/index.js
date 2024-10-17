@@ -50,7 +50,7 @@ Also aware of RESTful Webservices, JSON, Nodejs, Google Firebase as cloud suppor
 integration.
           </p>
           <p>Freelancer(Currently):
-Freelancer- worked as a freelancer on various projects. The technology used are PSD to HTML 5, HTML5, CSS3,
+Freelancer- worked as a freelancer on various projects. The technology used are MERN,PSD to HTML 5, HTML5, CSS3,
 JavaScript, Bootstrap, jQuery, ReactJs, Responsive Design.</p>
         </div>
 

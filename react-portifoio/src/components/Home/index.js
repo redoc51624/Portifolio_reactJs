@@ -36,9 +36,9 @@ const Home = () => {
   return (
     <>
       <div className="container home-page">
-      <div class="hero">
+      <div className="hero">
 
-<div class="snow">
+<div className="snow">
     <svg viewBox="0 0 1024 1536" preserveAspectRatio="xMidYMax slice">
     <g fill="#FFF" fill-opacity=".15" transform="translate(55 42)">
      <g id="snow-bottom-layer">
@@ -111,7 +111,7 @@ const Home = () => {
 </svg>
 </div>
 
-<div class="hero__content">
+<div className="hero__content">
 </div>
 
 </div>
@@ -138,7 +138,7 @@ const Home = () => {
               idx={22}
             />
           </h1>
-          <h2>Front End Developer / JavaScript Expert / Youtuber</h2>
+          <h2>Front End Developer / JavaScript Expert / MERN developer</h2>
           <Link to="/contact" className="flat-button">
             CONTACT ME
           </Link>

@@ -20,7 +20,7 @@ const Contact = () => {
     e.preventDefault()
 
     emailjs
-      .sendForm('service_a9pps4r', 'template_giyd89m', form.current, 'K2PxDOZJcj2qkx-CX')
+      .sendForm('vikas_portfolio_contact', 'template_ysoeqkd', form.current, 'iOqNHQjCZ7rDkV7b-')
       .then(
         () => {
           alert('Message successfully sent!')
@@ -92,7 +92,7 @@ const Contact = () => {
           New colony <br />
           Ramnagar <br />
           <br />
-          <span>vikas10145.12@bitmesra.ac.in</span>
+          <span>vikaskumar94317@gmail.com</span>
         </div>
         <div className="map-wrap">
           <MapContainer center={[23.9975, 85.3382]} zoom={13}>
